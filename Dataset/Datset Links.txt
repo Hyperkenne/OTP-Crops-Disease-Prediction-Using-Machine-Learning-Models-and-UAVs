@@ -1,0 +1,3 @@
+Potato Dataset :https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset
+Onion Dataset :https://universe.roboflow.com/icenhs-rutherford/onion-leaves-detector-v2/dataset/1
+Tomato Dataset :https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
